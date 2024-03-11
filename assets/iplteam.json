@@ -1,0 +1,71 @@
+[
+    {
+        "team":"Chennai Super Kings",
+        "captain":"MS Dhoni",
+        "coach":"Stephen Fleming",
+        "image":"assets/images/csk.jpeg"
+    },
+
+    {
+        "team":"Delhi Capitals",
+        "captain":"David Warner",
+        "coach":"Ricky Pointing",
+        "image":"assets/images/dc.avif"
+    },
+
+    {
+        "team":"Gujarat Titans",
+        "captain":"Shubhan Gill",
+        "coach":"Ashish Nehra",
+        "image":"assets/images/gt.jpeg"
+    },
+
+    {
+        "team":"Kolkata Knight Riders",
+        "captain":"Shreyas Iyer",
+        "coach":"Chandrakant Pandit",
+        "image":"assets/images/kkr.jpg"
+    },
+
+    {
+        "team":"Lucknow Super Giants",
+        "captain":"KL Rahul",
+        "coach":"Justin Langer",
+        "image":"assets/images/lsg.jpg"
+    },
+
+    {
+        "team":"Mumbai Indians",
+        "captain":"Hardik Pandya",
+        "coach":"Mark Boucher",
+        "image":"assets/images/mi.jpg"
+    },
+
+    {
+        "team":"Punjab Kings",
+        "captain":"Shikhar Dhawan",
+        "coach":"Trevor Bayliss",
+        "image":"assets/images/pbks.jpg"
+    },
+
+    {
+        "team":"Rajasthan Royals",
+        "captain":"Sanju Samson",
+        "coach":"Kumar Sangakkara",
+        "image":"assets/images/rr.jpg"
+    },
+
+    {
+        "team":"Royal Challengers Bangalore",
+        "captain":"Faf Du Plessis",
+        "coach":"Sanjay Bangar",
+        "image":"assets/images/rcb.jpg"
+    },
+
+    {
+        "team":"Sunrisers Hyderabad",
+        "captain":"Aiden Markram",
+        "coach":"Daniel Vettori",
+        "image":"assets/images/srh.jpg"
+    }
+]
